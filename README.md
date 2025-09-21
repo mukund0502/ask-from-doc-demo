@@ -26,13 +26,13 @@ Ask From Doc is a **document-based Question Answering (QA) application** that al
 - **OCR**: Tesseract for image-based text extraction  
 
 ## Screenshots of application :
-![Application startup](screenshots\startup-interface.png)
+![Application startup](screenshots/startup-interface.png)
 
 
-![Save to DB](screenshots\upload-and-save.png)
+![Save to DB](screenshots/upload-and-save.png)
 
 
-![Ask query from doc](screenshots\ask-query-from-doc.png)
+![Ask query from doc](screenshots/ask-query-from-doc.png)
 
 
-![Just query](screenshots\just-query.png)
+![Just query](screenshots/just-query.png)
